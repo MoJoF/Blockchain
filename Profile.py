@@ -1,3 +1,5 @@
+import random
+
 class Profile:
 	def __init__(self, count=0):
 		self.count = count

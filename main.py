@@ -6,3 +6,4 @@ import random
 
 p = Profile()
 print(p)
+print(p.ad())
